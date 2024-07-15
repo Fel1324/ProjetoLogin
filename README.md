@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Projeto Login 🤖</h1>
+<h1 align="center">🖥️ Projeto Login</h1>
 
 <h3 align="center" style="line-height: 1.5">Projeto desenvolvido no Curso de HTML e CSS do CursoemVideo durante o módulo 04</h3>
 
@@ -11,7 +11,7 @@
 <br>
 
 <p>
-  <img alt="Interface do Projeto Android" src=".github/preview.png">
+  <img alt="Interface do Projeto Login" src=".github/preview.png">
 </p>
 
 <br>
